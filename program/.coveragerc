@@ -1,0 +1,2 @@
+[run]
+omit=tests/*,orders\wsgi.py,orders\urls.py,orders\settings.py,orders\asgi.py,

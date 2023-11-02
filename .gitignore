@@ -4,6 +4,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+data
+env
+reference
+.env
 
 *.sqlite3
 env/
